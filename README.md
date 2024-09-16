@@ -1,11 +1,13 @@
-- 👋 Hi, I’m Jagadesvar
-- 💻 Passionate about UI/UX
-- 🌱 I’m currently learning Web Development
-- 💞️ Arts & Design Fantic | Digital arts
-- 🧑‍💻 Java junkie with a knack for SQL and MySQL database
-- 🧑‍🎓 Thir-year Computer Science Engineering student at Sona College of Technology
-- 📚 Lifelong learner with an insatibale curiosity for innovation
-- ⚡ Fun fact: Athlete
+
+
+- 👋 **Hi, I’m Jagadesvar**  
+- 💻 **Passionate about UI/UX Design**  
+- 🌱 **Currently Learning:** Web Development & Digital Arts  
+- 🎨 **Art & Design Enthusiast | Digital Arts Fanatic**  
+- ☕ **Java Junkie | SQL & MySQL Aficionado**  
+- 🎓 **3rd Year Computer Science Engineering Student** at Sona College of Technology  
+- 📚 **Lifelong Learner** with an *insatiable curiosity* for innovation  
+- ⚡ **Fun Fact:** I'm an athlete who loves pushing boundaries!
 
 <!---
 jagadesvar/jagadesvar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
