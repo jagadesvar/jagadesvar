@@ -1,12 +1,19 @@
 # 👋 HELLO, I'M JAGADESVAR :)
 
-🌐 Passionate about UI/UX Design,Web Development,Gen-AI
-👨‍💻 Currently Learning: Web Development,GEN AI
-🎙️ Art & Design Enthusiast | Digital Arts Fanatic |Public Speaker
-🔧 Java Junkie | SQL & MySQL Aficionado  
-📚 Final Year Computer Science Engineering Student at Sona College of Technology  
-🚀 Lifelong Learner with an insatiable curiosity for innovation  
-🔗 Fun Fact: I'm an athlete who loves pushing boundaries!
+- 🌍 Passionate about UI/UX Design, Web Development, and Generative AI
+
+- 👨‍💻 Currently diving into: Web Development and Generative AI
+
+- 🎤 An art and design enthusiast, digital arts fanatic, and skilled public speaker
+
+- 🔧 Java junkie with a flair for SQL and MySQL databases
+
+- 🎓 Final year Computer Science Engineering student at Sona College of Technology
+
+- 🚀 A lifelong learner fueled by an insatiable curiosity for innovation
+
+- 🏃 Fun Fact: I'm an athlete who loves to push my limits!
+
 
 ---
 
