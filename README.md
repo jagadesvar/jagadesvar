@@ -1,41 +1,21 @@
 # 👋 Hi, I’m Jagadesvar
 
-💻 Passionate about UI/UX Design  
-🌱 Currently Learning: Web Development & Digital Arts  
-🎨 Art & Design Enthusiast | Digital Arts Fanatic  
+💻 Passionate about UI/UX Design,Web Development,Gen AI 
+🌱 Currently Learning: Web Development,GEN AI
+🎨 Art & Design Enthusiast | Digital Arts Fanatic |Public Speaker
 ☕ Java Junkie | SQL & MySQL Aficionado  
-🎓 3rd Year Computer Science Engineering Student at Sona College of Technology  
+🎓 Final Year Computer Science Engineering Student at Sona College of Technology  
 📚 Lifelong Learner with an insatiable curiosity for innovation  
 ⚡ Fun Fact: I'm an athlete who loves pushing boundaries!
 
 ---
 
 ## About Me
-I am an enthusiastic, reliable, responsible, self-determined, and hard-working individual. I am a mature team worker with an adaptive nature to handle challenges in the workspace. I excel in both team environments and independently, working well under pressure and adhering to strict deadlines.
+I am a dedicated Computer Science student with hands-on experience in various web development projects. My journey has equipped me with practical skills in front-end technologies like HTML, CSS, and JavaScript, as well as back-end frameworks PHP . Through projects like **[BLOOD DONATION WEBSITE](link-to-your-project)** and **[RENTAL WHEELS WEBSITE](link-to-your-proj)**, I have honed my problem-solving abilities and learned to collaborate effectively in diverse teams.
 
-## Skills
-### Technical Skills
-- **Programming Languages**: Java, PHP, JavaScript
-- **Object-Oriented Programming (OOP)**
-- **Database Management**: MySQL, MongoDB
-- **Operating Systems**: Windows, Linux
+I thrive in challenging environments, often pushing the boundaries of my technical knowledge to deliver impactful solutions. My projects have not only reinforced my coding skills but also my understanding of user experience, database management, and version control. I am passionate about continuous learning and eager to contribute to innovative projects that make a difference.
 
-### Professional Skills
-- **Communication**
-- **Organizing**
-- **Leadership**
-- **Problem Solving**
 
----
-
-## Experience
-### Proficiency
-- **Student Topper Prizes**
-- **Public Speaking**: Sona Speaker's Forum
-- **HireMee Job Assessment Exam**: Cracked and scored 88%
-- **Wipro Milestone Exam**: Java Certification Training - Cracked and scored 97%
-
----
 
 ## Tech Stack
 ### Front-End Technologies
@@ -69,9 +49,3 @@ I am an enthusiastic, reliable, responsible, self-determined, and hard-working i
 
 ## Download CV
 [Download CV](link-to-your-CV)
-
-### Get in Touch
-**Your Name:**  
-**Your Email:**  
-**Your Message:**  
-[Submit]
