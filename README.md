@@ -1,12 +1,12 @@
-# 👋 Hi, I’m Jagadesvar
+# 👋 HELLO, I'M JAGADESVAR :)
 
-💻 Passionate about UI/UX Design,Web Development,Gen AI
-🌱 Currently Learning: Web Development,GEN AI
-🎨 Art & Design Enthusiast | Digital Arts Fanatic |Public Speaker
-☕ Java Junkie | SQL & MySQL Aficionado  
-🎓 Final Year Computer Science Engineering Student at Sona College of Technology  
-📚 Lifelong Learner with an insatiable curiosity for innovation  
-⚡ Fun Fact: I'm an athlete who loves pushing boundaries!
+~ Passionate about UI/UX Design,Web Development,Gen AI
+~ Currently Learning: Web Development,GEN AI
+~ Art & Design Enthusiast | Digital Arts Fanatic |Public Speaker
+~ Java Junkie | SQL & MySQL Aficionado  
+~ Final Year Computer Science Engineering Student at Sona College of Technology  
+~ Lifelong Learner with an insatiable curiosity for innovation  
+~ Fun Fact: I'm an athlete who loves pushing boundaries!
 
 ---
 
