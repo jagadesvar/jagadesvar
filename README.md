@@ -18,7 +18,7 @@
 ---
 
 ## About Me
-I am a dedicated Computer Science student with hands-on experience in various web development projects. My journey has equipped me with practical skills in front-end technologies like HTML, CSS, and JavaScript, as well as back-end frameworks PHP . Through projects like **[BLOOD DONATION WEBSITE](link-to-your-project)** and **[RENTAL WHEELS WEBSITE](link-to-your-proj)**, I have honed my problem-solving abilities and learned to collaborate effectively in diverse teams.
+I am a dedicated Computer Science student with hands-on experience in various web development projects. My journey has equipped me with practical skills in front-end technologies like HTML, CSS, and JavaScript, as well as back-end frameworks PHP . Through projects like **[BLOOD DONATION WEBSITE](link-to-your-project)** and **[RENTAL WHEELS WEBSITE](https://github.com/jagadesvar/Rental_Wheels)**, I have honed my problem-solving abilities and learned to collaborate effectively in diverse teams.
 
 I thrive in challenging environments, often pushing the boundaries of my technical knowledge to deliver impactful solutions. My projects have not only reinforced my coding skills but also my understanding of user experience, database management, and version control. I am passionate about continuous learning and eager to contribute to innovative projects that make a difference.
 
