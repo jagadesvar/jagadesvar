@@ -16,11 +16,40 @@
 
 
 ---
-
 ## About Me
-I am a dedicated Computer Science student with hands-on experience in various web development projects. My journey has equipped me with practical skills in front-end technologies like HTML, CSS, and JavaScript, as well as back-end frameworks PHP . Through projects like **[BLOOD DONATION WEBSITE](link-to-your-project)** and **[RENTAL WHEELS WEBSITE](https://github.com/jagadesvar/Rental_Wheels)**, I have honed my problem-solving abilities and learned to collaborate effectively in diverse teams.
 
-I thrive in challenging environments, often pushing the boundaries of my technical knowledge to deliver impactful solutions. My projects have not only reinforced my coding skills but also my understanding of user experience, database management, and version control. I am passionate about continuous learning and eager to contribute to innovative projects that make a difference.
+I am a passionate Computer Science student with hands-on experience in web development. I have practical skills in front-end technologies like HTML, CSS, and JavaScript, as well as back-end frameworks such as PHP.
+
+### Projects
+-  **[Portfolio Website 💼](https://github.com/jagadesvar/My_Portfolio)**  
+  A personal portfolio showcasing my projects, skills, and experiences, designed to highlight my journey and achievements in the tech industry.  
+  **Tech Stack:** HTML, CSS, JavaScript
+
+
+-  **[Student Blood Donation Hub 💉]**  
+  An online platform that connects student donors with those in need of blood. It allows users to search for donors based on blood type and location, facilitating the donation process.  
+  **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
+
+
+- **[RentalWheels](https://github.com/jagadesvar/Rental_Wheels) 🚗**  
+  A vehicle rental platform that allows users to rent vehicles and locate nearby services using Google Maps API. Features include real-time vehicle availability, a responsive design, and an easy booking system.
+
+  **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL, Google Maps API
+
+- **[HackerInsight 🌐](https://github.com/jagadesvar/HackerInsight)**  
+  A multi-agent AI research assistant for exploring HackerNews stories and user profiles. It utilizes AI agents for summarization and analysis, ensuring users stay updated.
+
+  **Technologies Used:** GPT-4, Streamlit, HackerNews API
+
+
+- **[React Weather App 🌦️](https://github.com/jagadesvar/React_Weather_App)**  
+  A responsive weather app built with React and Vite that fetches real-time weather data for any city. It features dynamic updates and a user-friendly interface.
+
+  **Tech Stack:** React, Vite, JavaScript, CSS, OpenWeatherMap API
+
+
+I thrive in challenging environments, continuously pushing my technical boundaries to deliver impactful solutions. I’m eager to learn and contribute to innovative projects that make a difference.
+
 
 
 
