@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jagadesvar
 
-💻 Passionate about UI/UX Design,Web Development,Gen AI 
+💻 Passionate about UI/UX Design,Web Development,Gen AI
 🌱 Currently Learning: Web Development,GEN AI
 🎨 Art & Design Enthusiast | Digital Arts Fanatic |Public Speaker
 ☕ Java Junkie | SQL & MySQL Aficionado  
@@ -46,6 +46,3 @@ I thrive in challenging environments, often pushing the boundaries of my technic
 - **Phone**: +91 8778292321  
 
 ---
-
-## Download CV
-[Download CV](link-to-your-CV)
