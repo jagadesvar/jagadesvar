@@ -2,7 +2,7 @@
 
 - 🌍 Passionate about UI/UX Design, Web Development, and Generative AI
 
-- 👨‍💻 Currently diving into: Web Development and Generative AI
+- 👨‍💻 Currently diving into: DevOps, and Generative AI
 
 - 🎤 An art and design enthusiast, digital arts fanatic, and skilled public speaker
 
